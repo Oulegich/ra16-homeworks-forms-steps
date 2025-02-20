@@ -1,9 +1,9 @@
 Учёт тренировок
 ===
 
+[![Build status](https://ci.appveyor.com/api/projects/status/0sx780d20w3c7dbn?svg=true)](https://ci.appveyor.com/project/Oulegich/ra16-homeworks-forms-steps)
 
-
-[Ссылка на Github Pages]()
+[Ссылка на Github Pages](https://oulegich.github.io/ra16-homeworks-forms-steps/)
 
 Вы решили реализовать небольшое приложение, которое хранит данные о тренировках и прогулках, которые вы совершаете в течение недели.
 
